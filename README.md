@@ -1,2 +1,2 @@
 # Instagram-UI
-![two-standing-smartphones-mockup](https://github.com/Sarah123a/instagram-UI/assets/109565786/71dbcaf4-6ef3-4ab2-beaf-5f375234bcb2)
+![instagram-ui](https://github.com/Sarah123a/instagram-UI/assets/109565786/da02fcc6-57f3-424c-9eb1-9c8220c0abc2)
